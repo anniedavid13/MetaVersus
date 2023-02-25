@@ -7,7 +7,7 @@ import { slideIn, staggerContainer, textVariant } from '../utils/motion';
 
 const Hero = () => (
   <section className={`${styles.yPaddings} sm:pl-16 pl-6`}>
-    Hero section
+      This is going to be the hero section
   </section>
 );
 
